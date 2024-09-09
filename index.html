@@ -5,15 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script src="./dist/bundle.js"></script>
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
 </head>
 <body>
     <h1>Найдём номера под ваши пожелания</h1>
     <h3>Прибытие</h3>
-    <form action="?" method="POST">
-        <div class="g-recaptcha" data-sitekey="6LcMXzsqAAAAAPCCzpgZqoYHFStMLsQVnbjFFyEW"></div>
-        <br/>
-        <input type="submit" value="Submit">
-    </form>
+    <button class="g-recaptcha" 
+        data-sitekey="reCAPTCHA_site_key" 
+        data-callback='onSubmit' 
+        data-action='submit'>Submit</button>
+
+    <script>
+        function onSubmit(token) {
+          document.getElementById("demo-form").submit();
+        }
+    </script>     
 </body>
 </html>
