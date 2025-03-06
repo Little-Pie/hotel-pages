@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.3",
     "node-sass": "^9.0.0",
     "pug": "^2.0.4",
     "pug-loader": "^2.4.0",

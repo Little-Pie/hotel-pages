@@ -1,0 +1,15 @@
+block vars
+ - var siteTitle = 'Отель';
+ - var lang = 'ru';
+
+include ../helpers/mixins.pug
+
+doctype html
+html(lang=lang)
+  head
+    meta(charset="UTF-8")
+    title #{siteTitle}
+  body
+    include ../components/header/header
+    block content
+    include ../components/footer/footer

@@ -16,7 +16,7 @@
   \*****************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ../fonts/Montserrat-Bold.ttf */ \"./fonts/Montserrat-Bold.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ../fonts/Montserrat-Bold.svg */ \"./fonts/Montserrat-Bold.svg\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ../fonts/Montserrat-Bold.woff */ \"./fonts/Montserrat-Bold.woff\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! ../fonts/Montserrat-Regular.ttf */ \"./fonts/Montserrat-Regular.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(/*! ../fonts/Montserrat-Regular.svg */ \"./fonts/Montserrat-Regular.svg\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_5___ = new URL(/* asset import */ __webpack_require__(/*! ../fonts/Montserrat-Regular.woff */ \"./fonts/Montserrat-Regular.woff\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_2___);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_3___);\nvar ___CSS_LOADER_URL_REPLACEMENT_4___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_4___);\nvar ___CSS_LOADER_URL_REPLACEMENT_5___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_5___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `@font-face {\n  font-family: 'Montserrat';\n  src: url(${___CSS_LOADER_URL_REPLACEMENT_0___}) format(\"ttf\"), url(${___CSS_LOADER_URL_REPLACEMENT_1___}) format(\"svg\"), url(${___CSS_LOADER_URL_REPLACEMENT_2___}) format(\"woff\");\n  font-weight: bold; }\n\n@font-face {\n  font-family: 'Montserrat';\n  src: url(${___CSS_LOADER_URL_REPLACEMENT_3___}) format(\"ttf\"), url(${___CSS_LOADER_URL_REPLACEMENT_4___}) format(\"svg\"), url(${___CSS_LOADER_URL_REPLACEMENT_5___}) format(\"woff\");\n  font-weight: medium; }\n\np {\n  background-color: #6FCF97;\n  font-family: Montserrat, sans-serif; }\n`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://hotel-pages/./src/style.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/fonts/Montserrat-Bold.ttf */ \"./src/assets/fonts/Montserrat-Bold.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/fonts/Montserrat-Bold.svg */ \"./src/assets/fonts/Montserrat-Bold.svg\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/fonts/Montserrat-Bold.woff */ \"./src/assets/fonts/Montserrat-Bold.woff\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/fonts/Montserrat-Regular.ttf */ \"./src/assets/fonts/Montserrat-Regular.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/fonts/Montserrat-Regular.svg */ \"./src/assets/fonts/Montserrat-Regular.svg\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_5___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/fonts/Montserrat-Regular.woff */ \"./src/assets/fonts/Montserrat-Regular.woff\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_2___);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_3___);\nvar ___CSS_LOADER_URL_REPLACEMENT_4___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_4___);\nvar ___CSS_LOADER_URL_REPLACEMENT_5___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_5___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `@font-face {\n  font-family: 'Montserrat';\n  src: url(${___CSS_LOADER_URL_REPLACEMENT_0___}) format(\"ttf\"), url(${___CSS_LOADER_URL_REPLACEMENT_1___}) format(\"svg\"), url(${___CSS_LOADER_URL_REPLACEMENT_2___}) format(\"woff\");\n  font-weight: bold; }\n\n@font-face {\n  font-family: 'Montserrat';\n  src: url(${___CSS_LOADER_URL_REPLACEMENT_3___}) format(\"ttf\"), url(${___CSS_LOADER_URL_REPLACEMENT_4___}) format(\"svg\"), url(${___CSS_LOADER_URL_REPLACEMENT_5___}) format(\"woff\");\n  font-weight: regular; }\n\nbody {\n  font-family: Montserrat, sans-serif;\n  font-weight: regular;\n  font-size: 14px;\n  line-height: 24px; }\n\nh1 {\n  font-family: Montserrat, sans-serif;\n  font-weight: bold;\n  font-size: 24px;\n  color: #6FCF97; }\n\nh2 {\n  font-family: Montserrat, sans-serif;\n  font-weight: bold;\n  font-size: 19px; }\n\nh3 {\n  font-family: Montserrat, sans-serif;\n  font-weight: bold;\n  font-size: 12px;\n  text-transform: uppercase;\n  margin: 0; }\n\ninput {\n  padding-left: 15px;\n  width: 320px;\n  height: 44px;\n  border-radius: 4px;\n  border: 1px solid rgba(31, 32, 65, 0.25); }\n\ninput:focus, input:hover {\n  outline: none;\n  border: 1px solid rgba(31, 32, 65, 0.5); }\n`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://hotel-pages/./src/style.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -130,63 +130,63 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
 
 /***/ }),
 
-/***/ "./fonts/Montserrat-Bold.svg":
-/*!***********************************!*\
-  !*** ./fonts/Montserrat-Bold.svg ***!
-  \***********************************/
+/***/ "./src/assets/fonts/Montserrat-Bold.svg":
+/*!**********************************************!*\
+  !*** ./src/assets/fonts/Montserrat-Bold.svg ***!
+  \**********************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"222148ba777e2e2bb822.svg\";\n\n//# sourceURL=webpack://hotel-pages/./fonts/Montserrat-Bold.svg?");
+eval("module.exports = __webpack_require__.p + \"222148ba777e2e2bb822.svg\";\n\n//# sourceURL=webpack://hotel-pages/./src/assets/fonts/Montserrat-Bold.svg?");
 
 /***/ }),
 
-/***/ "./fonts/Montserrat-Bold.ttf":
-/*!***********************************!*\
-  !*** ./fonts/Montserrat-Bold.ttf ***!
-  \***********************************/
+/***/ "./src/assets/fonts/Montserrat-Bold.ttf":
+/*!**********************************************!*\
+  !*** ./src/assets/fonts/Montserrat-Bold.ttf ***!
+  \**********************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"50f0257aa1e905f4bfaf.ttf\";\n\n//# sourceURL=webpack://hotel-pages/./fonts/Montserrat-Bold.ttf?");
+eval("module.exports = __webpack_require__.p + \"50f0257aa1e905f4bfaf.ttf\";\n\n//# sourceURL=webpack://hotel-pages/./src/assets/fonts/Montserrat-Bold.ttf?");
 
 /***/ }),
 
-/***/ "./fonts/Montserrat-Bold.woff":
-/*!************************************!*\
-  !*** ./fonts/Montserrat-Bold.woff ***!
-  \************************************/
+/***/ "./src/assets/fonts/Montserrat-Bold.woff":
+/*!***********************************************!*\
+  !*** ./src/assets/fonts/Montserrat-Bold.woff ***!
+  \***********************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"98b0900ab0e6d13327a3.woff\";\n\n//# sourceURL=webpack://hotel-pages/./fonts/Montserrat-Bold.woff?");
+eval("module.exports = __webpack_require__.p + \"98b0900ab0e6d13327a3.woff\";\n\n//# sourceURL=webpack://hotel-pages/./src/assets/fonts/Montserrat-Bold.woff?");
 
 /***/ }),
 
-/***/ "./fonts/Montserrat-Regular.svg":
-/*!**************************************!*\
-  !*** ./fonts/Montserrat-Regular.svg ***!
-  \**************************************/
+/***/ "./src/assets/fonts/Montserrat-Regular.svg":
+/*!*************************************************!*\
+  !*** ./src/assets/fonts/Montserrat-Regular.svg ***!
+  \*************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"57dffba9fd2665ceb2be.svg\";\n\n//# sourceURL=webpack://hotel-pages/./fonts/Montserrat-Regular.svg?");
+eval("module.exports = __webpack_require__.p + \"57dffba9fd2665ceb2be.svg\";\n\n//# sourceURL=webpack://hotel-pages/./src/assets/fonts/Montserrat-Regular.svg?");
 
 /***/ }),
 
-/***/ "./fonts/Montserrat-Regular.ttf":
-/*!**************************************!*\
-  !*** ./fonts/Montserrat-Regular.ttf ***!
-  \**************************************/
+/***/ "./src/assets/fonts/Montserrat-Regular.ttf":
+/*!*************************************************!*\
+  !*** ./src/assets/fonts/Montserrat-Regular.ttf ***!
+  \*************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"24785cc015b27a3e964b.ttf\";\n\n//# sourceURL=webpack://hotel-pages/./fonts/Montserrat-Regular.ttf?");
+eval("module.exports = __webpack_require__.p + \"24785cc015b27a3e964b.ttf\";\n\n//# sourceURL=webpack://hotel-pages/./src/assets/fonts/Montserrat-Regular.ttf?");
 
 /***/ }),
 
-/***/ "./fonts/Montserrat-Regular.woff":
-/*!***************************************!*\
-  !*** ./fonts/Montserrat-Regular.woff ***!
-  \***************************************/
+/***/ "./src/assets/fonts/Montserrat-Regular.woff":
+/*!**************************************************!*\
+  !*** ./src/assets/fonts/Montserrat-Regular.woff ***!
+  \**************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"705edb501b212444957b.woff\";\n\n//# sourceURL=webpack://hotel-pages/./fonts/Montserrat-Regular.woff?");
+eval("module.exports = __webpack_require__.p + \"705edb501b212444957b.woff\";\n\n//# sourceURL=webpack://hotel-pages/./src/assets/fonts/Montserrat-Regular.woff?");
 
 /***/ })
 
