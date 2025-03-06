@@ -3,6 +3,7 @@ BEM project for hotel site
 
 ## Used libraries:
 - css-loader
+- html-webpack-plugin
 - node-sass
 - pug
 - pug-loader
